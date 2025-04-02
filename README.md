@@ -174,3 +174,8 @@ kubectl apply -f loadbalancer-service.yaml
   kubectl logs -l app=flask-load-balancer -f
   ```
 - **Image Pull Issues**: Ensure your Docker images are pushed to Docker Hub with the correct tags. [More Details](https://docs.docker.com/get-started/introduction/build-and-push-first-image/)
+
+### Screenshots
+![alt text](image.png)
+
+![alt text](image-1.png)
